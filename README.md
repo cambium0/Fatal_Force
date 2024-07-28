@@ -1,0 +1,1 @@
+Warts and all data science project analyzing Washington Post data set on Police killings, responding to requirements posed by instructor. All intermediary dataframes and so forth preparing the data for the required tables have been retained.
